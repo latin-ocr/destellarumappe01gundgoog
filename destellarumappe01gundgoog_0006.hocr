@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./destellarumappe01gundgoog_0006.png"; bbox 0 0 3576 5085; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 940 1719 2748 1947">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 940 1719 2748 1947">
+     <span class='ocr_line' id='line_1_1' title="bbox 1040 1719 2646 1806; baseline -0.004 0"><span class='ocrx_word' id='word_1_1' title='bbox 1040 1719 2646 1806; x_wconf 83' lang='lat' dir='ltr'>RELIGIONSGESCHICHTLICHE</span> 
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 940 1860 2748 1947; baseline -0.001 -6"><span class='ocrx_word' id='word_1_2' title='bbox 940 1861 1536 1947; x_wconf 82' lang='lat' dir='ltr'><strong>VERSUCHE</strong></span> <span class='ocrx_word' id='word_1_3' title='bbox 1616 1861 1857 1944; x_wconf 92' lang='lat' dir='ltr'>UND</span> <span class='ocrx_word' id='word_1_4' title='bbox 1948 1860 2748 1944; x_wconf 83' lang='lat' dir='ltr'>VORARBEITEN</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 988 2127 2699 2345">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 988 2127 2699 2345">
+     <span class='ocr_line' id='line_1_3' title="bbox 1803 2127 1898 2159; baseline -0.011 0"><span class='ocrx_word' id='word_1_5' title='bbox 1803 2127 1898 2159; x_wconf 77' lang='lat' dir='ltr'>von</span> 
+     </span>
+     <span class='ocr_line' id='line_1_4' title="bbox 988 2207 2699 2283; baseline -0.001 -20"><span class='ocrx_word' id='word_1_6' title='bbox 988 2208 1343 2265; x_wconf 71' lang='lat' dir='ltr'><strong>Albrecht</strong></span> <span class='ocrx_word' id='word_1_7' title='bbox 1377 2208 1753 2265; x_wconf 84' lang='lat' dir='ltr'><strong>Dieterich</strong></span> <span class='ocrx_word' id='word_1_8' title='bbox 1810 2215 1909 2258; x_wconf 79' lang='lat' dir='ltr'>und</span> <span class='ocrx_word' id='word_1_9' title='bbox 1964 2207 2310 2283; x_wconf 82' lang='lat' dir='ltr'>Richard</span> <span class='ocrx_word' id='word_1_10' title='bbox 2354 2209 2699 2264; x_wconf 73' lang='lat' dir='ltr'>Wiinsch</span> 
+     </span>
+     <span class='ocr_line' id='line_1_5' title="bbox 1193 2289 2461 2345; baseline -0.002 -9"><span class='ocrx_word' id='word_1_11' title='bbox 1193 2292 1207 2336; x_wconf 87' lang='lat' dir='ltr'><strong>i</strong></span> <span class='ocrx_word' id='word_1_12' title='bbox 1212 2291 1437 2337; x_wconf 75' lang='lat' dir='ltr'>eeeeeee</span> <span class='ocrx_word' id='word_1_13' title='bbox 1443 2292 1472 2337; x_wconf 90' lang='lat' dir='ltr'>b</span> <span class='ocrx_word' id='word_1_14' title='bbox 1478 2291 2248 2345; x_wconf 75' lang='lat' dir='ltr'>eeeee</span> <span class='ocrx_word' id='word_1_15' title='bbox 2276 2289 2461 2335; x_wconf 79' lang='lat' dir='ltr'>Giessen</span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
